@@ -23,19 +23,19 @@ The algorithm is implemented on a variation of SEIRD Model and models the effect
 
 ## RESULTS
 The individually predicted compartment graphs for Susceptible, Exposed, Infected, Recovered and Deceased are attached below:
-For Epochs = 10:
+**For Epochs = 10:**
 ![SEIRD Graphs@10](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/3c4b711d-7ece-432e-b6e6-83f9093f5a2a)
-For Epochs = 50:
+**For Epochs = 50:**
 ![SEIRD Graphs@50](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/2e9925bd-eeaa-4f61-b339-3ba7f70a17cc)
-For Epochs = 100:
+**For Epochs = 100:**
 ![SEIRD Graphs@100](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/8095ffba-8513-4625-a65d-6c1c806806ab)
 
 The plots for variation of predicted Parameters obtained from the Neural Network are shown below:(Alpha, Beta, Gamma, Mu)
-For Epochs=10:
+**For Epochs=10:**
 ![Para values@10](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/c6b782db-605e-46ab-9356-ab00e5e3c7b6)
-For Epochs=50:
+**For Epochs=50:**
 ![Para values@50](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/3b88f6a9-822d-4881-b136-d1a8582ead02)
-For Epochs=100:
+**For Epochs=100:**
 ![Para values@100](https://github.com/MehShlok/Implementation-of-Epi-DNNs/assets/119751755/0208be27-63a8-4f09-a106-164dae093262)
 
 When we plot all the graphs (@100 epochs) together we see that, which leads to a very shocking revelation at first as we see the number of people affected out of India's total population at that time, i.e. 1,38,31,00,000 individuals
