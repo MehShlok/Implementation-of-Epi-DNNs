@@ -1,0 +1,11 @@
+Xiao Ning, Linlin Jia, Yongyue Wei, Xi-An Li, Feng Chen,
+Epi-DNNs: Epidemiological priors informed deep neural networks for modeling COVID-19 dynamics,
+Computers in Biology and Medicine,
+Volume 158,
+2023,
+106693,
+ISSN 0010-4825,
+https://doi.org/10.1016/j.compbiomed.2023.106693.
+(https://www.sciencedirect.com/science/article/pii/S0010482523001580)
+Abstract: Differential equations-based epidemic compartmental models and deep neural networks-based artificial intelligence (AI) models are powerful tools for analyzing and fighting the transmission of COVID-19. However, the capability of compartmental models is limited by the challenges of parameter estimation, while AI models fail to discover the evolutionary pattern of COVID-19 and lack explainability. This paper aims to provide a novel method (called Epi-DNNs) by integrating compartmental models and deep neural networks (DNNs) to model the complex dynamics of COVID-19. In the proposed Epi-DNNs method, the neural network is designed to express the unknown parameters in the compartmental model and the Runge–Kutta method is implemented to solve the ordinary differential equations (ODEs) so as to give the values of the ODEs at a given time. Specifically, the discrepancy between predictions and observations is incorporated into the loss function, then the defined loss is minimized and applied to identify the best-fitted parameters governing the compartmental model. Furthermore, we verify the performance of Epi-DNNs on the real-world reported COVID-19 data on the Omicron epidemic in Shanghai covering February 25 to May 27, 2022. The experimental findings on the synthesized data have revealed its effectiveness in COVID-19 transmission modeling. Moreover, the inferred parameters from the proposed Epi-DNNs method yield a predictive compartmental model, which can serve to forecast future dynamics.
+Keywords: Compartmental models; Deep neural networks; Parameter estimation; Runge–Kutta method; COVID-19
