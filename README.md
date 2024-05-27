@@ -51,4 +51,5 @@ By only plotting the EIRD Graph we are able to perform a much deeper analysis:
 Further Improvements: The realisation that this concept can be applied to almost all Epidemiological Compartment Models to make them much more efficient and to model any virus,disease,pandemics,epidemics.
 Moreover this can be used to forecast future infectious diseases and their growth, precautions to be taken, various interventions that can be applied, etc.
 
+(Thank you! [Yash Bhisikar](https://yashrb24.github.io/) and [Hardaat Singh Baath](https://hardaat-singh-baath.vercel.app/) for a thorough review of the project)
 ~Shlok Mehendale
